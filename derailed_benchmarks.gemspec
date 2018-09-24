@@ -20,7 +20,7 @@ Gem::Specification.new do |gem|
 
   gem.required_ruby_version = ">= 2.1.0"
 
-  gem.add_dependency "heapy",           "~> 0.1.3"
+  gem.add_dependency "heapy",           "0.1.3"
   gem.add_dependency "memory_profiler", "~> 0"
   gem.add_dependency "get_process_mem", "~> 0"
   gem.add_dependency "benchmark-ips",   "~> 2"
